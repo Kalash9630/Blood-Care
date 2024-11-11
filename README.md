@@ -4,7 +4,7 @@ Blood Care is a platform built to address blood shortages by connecting patients
 The main goal of Blood Care is to ensure that patients can receive blood quickly during emergencies. This platform helps hospitals and medical centers manage blood supplies by linking patients with donors, and providing administrators with tools to monitor stock levels effectively.
 
 **Technologies Used :-**\
-**Backend:** Django Framework (Python)\
+**Backend:** Django Framework\
 **Frontend:** HTML, CSS, Bootstrap, JavaScript\
 **Database:** SQLite
 
