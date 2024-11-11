@@ -8,7 +8,7 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'static')
 
 SECRET_KEY = '+zy!9k=9pql5gz9bkqjore)k6r!%w0atk(@(!(!zvp5e(t2i8n'
 CSRF_TRUSTED_ORIGINS=['https://web-production-8f93b.up.railway.app/']
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
